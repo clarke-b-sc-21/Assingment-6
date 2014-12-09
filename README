@@ -1,0 +1,10 @@
+Author: Logan Clarke
+Memory: Assignment # 6
+Purpose: The purpose of this program is to implement a list class
+using a queue.The list will contain 4 virtual funtions that must be 
+implemented,these include store() to store an element, retrieve() to
+retrieve a value from the list, empty() to tell us if a list is empty 
+and full() to determine if the list is full.
+
+Comments: It doesn't compile with the queue :/ I couldn't figure out how to refer 
+the first element in the list to write the pop method for the queue. 
